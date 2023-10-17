@@ -3353,6 +3353,7 @@ label {
   font-weight: 700;
 }
 /*# sourceMappingURL=style.css.map */
-.govt {
-  style: none;
+
+.govt_naics {
+  list-style-type: none;
 }
