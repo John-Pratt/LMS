@@ -3356,3 +3356,9 @@ label {
 .govt_naics {
   list-style-type: none;
 }
+
+.govt_naics li {
+  list-style-type: none;
+  display: inline-block;
+  margin: 0 10px;
+}
